@@ -21,12 +21,6 @@ int main(int argc, char** argv)
 
     soundManager.init();
     static int FPS = 75;
-    if (isDark == true) {
-        FPS = 90;
-    }
-    else {
-        FPS = 75;
-    }
     int frameDelay = 1000 / FPS;
 
     soundManager.playbgMusic();
