@@ -7,6 +7,7 @@
 
 ![441300706_1183721116374737_3295146801698324979_n-1 png](https://github.com/Verzol/FlappySkull/assets/148669996/809b55c7-aad3-43ae-b055-9d0f895f888a)
 
+![441426844_689468996602005_5663791527711066703_n](https://github.com/Verzol/FlappySkull/assets/148669996/cf8deff8-51a4-40ba-8f61-0a4f9d42cef8)
 
 
 ## Screenshots
