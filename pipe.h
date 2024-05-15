@@ -12,7 +12,7 @@ extern vector <pos> posPipe;
 
 class pipe:LoadTexture {
 private:
-    const int radMin = -373 + 30;
+    const int radMin = -373 + 20;
     const int radMax = SCREEN_HEIGHT - LAND_HEIGHT - 373 - PIPE_DISTANCE - 30;
 public:
     bool init();

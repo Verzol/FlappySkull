@@ -86,7 +86,7 @@
 	"CommonFunc.h"
 	"pipe.h"
 
-1714926093 c:\users\asus\documents\sdlproject\flappyskull\pipe.h
+1715754297 c:\users\asus\documents\sdlproject\flappyskull\pipe.h
 	"CommonFunc.h"
 	<iostream>
 	<vector>
@@ -115,7 +115,7 @@
 	"land.h"
 	<iostream>
 
-1715443899 source:c:\users\asus\documents\sdlproject\flappyskull\main.cpp
+1715754262 source:c:\users\asus\documents\sdlproject\flappyskull\main.cpp
 	<iostream>
 	"CommonFunc.h"
 	"GameLoop.h"
