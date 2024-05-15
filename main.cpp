@@ -30,7 +30,7 @@ int main(int argc, char** argv)
         Uint32 frameStart = SDL_GetTicks();
 
         handleDeath(g, isMenu, isDark);
-        handleGameplay(g, isPause, isDark, isSound) ;
+        handleGameplay(g, isPause, isDark, isSound);
 
         g.takeInput();
         if (g.userInput.Type == GameLoop::playerInput::CHANGE_THEME)

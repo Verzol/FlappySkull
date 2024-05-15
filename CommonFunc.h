@@ -5,8 +5,6 @@
 #include <SDL_image.h>
 #include <SDL_ttf.h>
 #include <SDL_mixer.h>
-#include <vector>
-#include <string>
 #include <iostream>
 
 using namespace std;
@@ -49,7 +47,7 @@ public:
     static const int SCREEN_HEIGHT = 625;
     static const int PIPE_SPACE = 150;
     static const int TOTAL_PIPE = 4;
-    static const int PIPE_DISTANCE = 200;
+    static const int PIPE_DISTANCE = 195;
     static const int LAND_HEIGHT = 140;
     static const int EAGLE_HEIGHT = 35;
     static const int EAGLE_WIDTH = 50;

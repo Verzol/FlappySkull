@@ -69,20 +69,18 @@
 1715360443 source:c:\users\asus\documents\sdlproject\flappyskull\commonfunc.cpp
 	"CommonFunc.h"
 
-1715069904 c:\users\asus\documents\sdlproject\flappyskull\commonfunc.h
+1715779193 c:\users\asus\documents\sdlproject\flappyskull\commonfunc.h
 	<SDL.h>
 	<SDL_image.h>
 	<SDL_ttf.h>
 	<SDL_mixer.h>
-	<vector>
-	<string>
 	<iostream>
 
-1715402457 source:c:\users\asus\documents\sdlproject\flappyskull\eagle.cpp
+1715775951 source:c:\users\asus\documents\sdlproject\flappyskull\eagle.cpp
 	"eagle.h"
 	"pipe.h"
 
-1715402360 c:\users\asus\documents\sdlproject\flappyskull\eagle.h
+1715779161 c:\users\asus\documents\sdlproject\flappyskull\eagle.h
 	"CommonFunc.h"
 	"pipe.h"
 
@@ -115,7 +113,7 @@
 	"land.h"
 	<iostream>
 
-1715754262 source:c:\users\asus\documents\sdlproject\flappyskull\main.cpp
+1715789430 source:c:\users\asus\documents\sdlproject\flappyskull\main.cpp
 	<iostream>
 	"CommonFunc.h"
 	"GameLoop.h"

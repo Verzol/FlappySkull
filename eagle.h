@@ -15,7 +15,7 @@ public:
         time = 0;
     }
     void fall();
-    void update(int Width2, int Height2);
+    void update(int pipeWidth, int pipeHeight);
     bool isScoring();
 private:
     int angle, time, x0;
