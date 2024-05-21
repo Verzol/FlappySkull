@@ -18,7 +18,7 @@
 - ⚙️ A remake version based on FlappyBird - Nguyen Ha Dong's hit game published in 2013.
 - 💻 PC version
 - 📚 Using SDL2 library
-
+- 📝 UET Assignment
 ## 📞 Contact
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minh.giangtuan.3/)
 
